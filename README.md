@@ -9,8 +9,8 @@ The grade is then decided based on the result.
 | Raw Score     | Grade     |
 | ------------- | ------------- |
 | < .1 | S |
-| \geq .1, < .2 | A |
-| \geq .2, < .3 | B |
-| \geq .3, < .4 | C |
-| \geq .4, < .5 | D |
-| \geq .5 | F |
+| $\geq$ .1, < .2 | A |
+| $\geq$ .2, < .3 | B |
+| $\geq$ .3, < .4 | C |
+| $\geq$ .4, < .5 | D |
+| $\geq$ .5 | F |
