@@ -14,3 +14,6 @@ The grade is then decided based on the result.
 | $\geq$ .3, < .4 | C |
 | $\geq$ .4, < .5 | D |
 | $\geq$ .5 | F |
+
+## How Does It Work?
+The main page contains a Flask form where the user inputs their CPU and GPU, assisted by a JavaScript autocomplete function that suggests up to 5 possible options. When the user submits the form, the input is then collected by Flask. Flask processes the input, calculates the Total System Score, and then returns a page displaying the results of both the CPU and GPU rankings followed by the calculated score.
