@@ -3,4 +3,4 @@ This web app is meant to evaluate the relative computing power of your system us
 
 ## Total System Score Calculation
 The basic calculations looks something like this:
-\frac{}{4}$
+(chosen CPU model rank $\div$ total number of CPUs in database) + (chosen GPU model rank $\div$ total number of GPUs in database)
